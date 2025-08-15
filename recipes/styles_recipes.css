@@ -1,0 +1,42 @@
+body{
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+    max-width: 900px;
+    margin: auto;
+}
+
+header{
+    color: firebrick;
+    text-align: center;
+}
+
+.receta{
+    margin:4rem;
+}
+
+#tituloreceta{
+    color: dodgerblue;
+    text-align: center;
+}
+
+.imgrecetas{
+    display: block;
+    margin: auto;
+    max-width: 200px;
+    border: 2px solid black;
+    border-radius: 15px; 
+}
+ul{
+    list-style: none;
+}
+#ingrediente_importante{
+    font-weight: bold;
+}
+
+p{
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+}
